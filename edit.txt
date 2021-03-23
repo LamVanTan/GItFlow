@@ -1,1 +1,1 @@
-edit revert
+rdit revert
